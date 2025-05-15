@@ -83,8 +83,8 @@ Feel free to fork the repo and submit pull requests with tutorials, templates, o
 
 ## 🔗 Links
 
-- [CapCut APK](https://www.capeditcut.com/)
-- [CapCut for PC](https://www.capeditcut.com/capcut-for-pc/)
+- [Download CapCut APK](https://www.capeditcut.com/)
+- [Download CapCut for PC](https://www.capeditcut.com/capcut-for-pc/)
 - [CapCut Tutorials on YouTube](https://www.youtube.com/results?search_query=capcut+tutorial)
 
 ---
